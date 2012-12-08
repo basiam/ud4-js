@@ -9,8 +9,11 @@ body {
   margin: 0 auto;
   background: #fff;
 }
-#page-wrap div {
+#page-wrap div.info {
   padding: 100px;
+}
+#page-wrap div.main {
+  padding: 0px 100px;
 }
 
 footer {
