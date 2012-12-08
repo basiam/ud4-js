@@ -18,6 +18,11 @@ footer {
   padding: 0px;
   height: 100px;
 }
-img{
+img.top, img.footer {
   width: 960px;
+  max-height: 300px;
+}
+#gallery img {
+  width: 250px;
+  height: 250px;
 }
